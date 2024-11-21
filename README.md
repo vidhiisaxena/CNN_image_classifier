@@ -124,7 +124,7 @@ Ensure you have the following installed:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL-3.0 license](LICENSE).
 
 Feel free to contribute or raise issues in the repository. Happy coding!
 
