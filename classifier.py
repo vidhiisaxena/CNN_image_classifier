@@ -52,7 +52,7 @@ def classifier(img_path, model_name):
         data = Variable(img_tensor, volatile = True) 
 
     # apply model to input
-    model = models['vgg']
+    model = models[model_name]
 
     # puts model in evaluation mode
     # instead of (default)training mode
