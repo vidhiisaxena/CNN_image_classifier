@@ -36,6 +36,10 @@ The goal of this project is to leverage pretrained CNN models to classify images
    - VGG16 is known for its simplicity and uniform architecture.
    - It uses smaller convolution filters and more layers for better feature extraction.
 
+![Result by AlexNet](https://github.com/user-attachments/assets/65a38adc-8416-4d36-8729-9d3a7282a450)
+![Result by VGG](https://github.com/user-attachments/assets/29debda9-3d46-4d85-9431-642b286e5cc7)
+
+
 ## Project Features
 
 - Classification using three CNN architectures.
