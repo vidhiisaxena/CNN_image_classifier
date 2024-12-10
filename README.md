@@ -133,5 +133,3 @@ This project is licensed under the [GPL-3.0 license](LICENSE).
 Feel free to contribute or raise issues in the repository. Happy coding!
 
 --- 
-
-Replace `your-username` in the repository link with your GitHub username. If you want additional instructions or features, let me know!
